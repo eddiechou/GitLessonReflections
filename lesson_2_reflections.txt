@@ -8,3 +8,7 @@ How is the staging area different from the working directory and the repository?
 The staging area is a buffer for what you're going to commit. The working directory is the directory you're working out of (the directory with .git). The staging area let's you specify exactly which files you want to commit.
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can check to see which files are being changed in the staging area.
+You can also use git diff --staged to compare the difference between the most recent commit and the staging area.
