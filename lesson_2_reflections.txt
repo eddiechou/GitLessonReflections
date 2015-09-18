@@ -17,3 +17,19 @@ You can also use git diff --staged to compare the difference between the most re
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If you wanted to try an experimental feature, or develop for another language. This allows you to switch between branches and develop simultaneously with little effort.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They show you where the branches fork from each other.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You merge the other branch onto the branch that you've currently checked out. 
+Both of those commits then become the parents of the new commit resulting from the merge.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves time/thinking that would be required if you always did it manually.
