@@ -16,3 +16,8 @@ Fork is a Github clone of a repository already on Github. You'd use one when you
 A clone is an exact copy of a repository. You can clone from Github to your local directory or from your local directory to your local directory as well.
 
 A branch is when there is a non-linear geometry in the graph of your repository. You would use this when you want to try out experimental features.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can compare the differences between the last known state of the remote and your current master.
