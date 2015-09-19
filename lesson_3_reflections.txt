@@ -21,3 +21,10 @@ A branch is when there is a non-linear geometry in the graph of your repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can compare the differences between the last known state of the remote and your current master.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could e-mail each other or use a file-sharing app like Dropbox.
+It would be easier to automatically send files.
+It would be much more difficult to keep track of versions.
