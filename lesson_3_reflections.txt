@@ -28,3 +28,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 You could e-mail each other or use a file-sharing app like Dropbox.
 It would be easier to automatically send files.
 It would be much more difficult to keep track of versions.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Whenever you're collaborating with multiple people.
+This allows people to review your work before merging it with the master.
